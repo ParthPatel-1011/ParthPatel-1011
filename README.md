@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am Student of IT engineering</h3>
 <img align="right" width="400" height="300" src="https://erkunal.in/_nuxt/img/about-dev.d3b6fdf.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paspa10parth&label=Profile%20views&color=0e75b6&style=flat" alt="paspa10parth" /> </p>
 
