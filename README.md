@@ -3,7 +3,7 @@
 <img align="right" width="400" height="300" src="https://erkunal.in/_nuxt/img/about-dev.d3b6fdf.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paspa10parth&label=Profile%20views&color=0e75b6&style=flat" alt="paspa10parth" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/parth_patel_01](https://linktr.ee/parth_patel_01)
+/*- 👨‍💻 All of my projects are available at [https://linktr.ee/parth_patel_01](https://linktr.ee/parth_patel_01)*/
 
 - ⚡ Fun fact **i am funny**
 
